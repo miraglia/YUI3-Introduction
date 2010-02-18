@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<book>
+  <bookinfo>
+    <title>YUI Tutorial</title>
+
+    <author>
+      <firstname>Yahoo! Technicals</firstname>
+
+      <surname></surname>
+
+      <affiliation>
+        <orgname></orgname>
+      </affiliation>
+    </author>
+
+    <pubdate>Feb, 2010</pubdate>
+  </bookinfo>
+
+  <chapter>
+    <title>Preface</title>
+
+    <section>
+      <title>Typographical Conventions</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>Audience of This Tutorial</title>
+
+      <para></para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>Introduction</title>
+
+    <section>
+      <title>A Brief History of YUI</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>Why Use a Javascript Library?</title>
+
+      <para></para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>Getting Started</title>
+
+    <section>
+      <title>A "hello World" Example</title>
+
+      <para></para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>Y Name Space</title>
+
+    <section>
+      <title>Using Name Space in Javascript</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>The YUI Global Object</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>Creating Name Space for Your Own Code</title>
+
+      <para></para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>YUI Components</title>
+
+    <section>
+      <title>Overview</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>YUI Modules</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>YUI Utilities</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>YUI Widgets</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>YUI Plugins</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>YUI Tools</title>
+
+      <para></para>
+    </section>
+
+    <section>
+      <title>YUI CSS</title>
+
+      <para></para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>DOM Manipulation in YUI</title>
+
+    <section>
+      <title>YUI Node module</title>
+
+      <para></para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>YUI Events Handling</title>
+
+    <section>
+      <title>Introduction</title>
+
+      <para></para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>Using YUI Utilities</title>
+
+    <section>
+      <title>A "hello World" Example</title>
+
+      <para></para>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>Using YUI Widgets</title>
+
+    <section>
+      <title>Overlay</title>
+
+      <para></para>
+    </section>
+  </chapter>
+  
+  <chapter>
+    <title>Recommended Pratices and Coding Standards</title>
+
+    <section>
+      <title>A "hello World" Example</title>
+
+      <para></para>
+    </section>
+  </chapter>  
+</book>
